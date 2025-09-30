@@ -1,3 +1,3 @@
-npm run build
 
-npm run start
+# Live demo:
+https://mern-stack-69d7.onrender.com/
